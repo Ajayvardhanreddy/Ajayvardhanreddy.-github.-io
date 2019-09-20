@@ -1,0 +1,43 @@
+tit{
+	background-color: #E57373;
+	border: 1px solid #E57373; 
+	color: white;
+	font-family: Comic Sans MS;
+	text-align: center;
+	font-size: 150%;
+	padding: 5px;
+
+
+}
+
+blink {
+	    text-align: center; 
+	    font-size: 150%;
+        animation: blinker 0.8s linear infinite;
+        color: #1c87c9;
+       }
+       @keyframes blinker {  
+        40% { opacity: 0; }
+       }
+#title {
+	color: white; 
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 150%;
+	padding: 5px; 
+  background: #009688;
+  -webkit-animation: mymove 2s infinite; /* Chrome, Safari, Opera */
+  animation: mymove 2s infinite;
+}
+​
+
+@-webkit-keyframes mymove {
+  from {background-color: #009688;}
+  to {background-color: #00BCD4;}
+}
+@keyframes mymove {
+  from {background-color: #009688;}
+  to {background-color: #00BCD4;}
+}
+
+    
