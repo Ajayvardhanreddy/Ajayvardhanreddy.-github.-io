@@ -1,1 +1,3 @@
-# First website by me. This is a task by coding studio, coding club of VBIT
+# First website by me. 
+# Task by @codingstudio, an official coding club of VBIT.
+
